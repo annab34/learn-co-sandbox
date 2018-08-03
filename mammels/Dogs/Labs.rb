@@ -1,0 +1,2 @@
+dog = "Roni"
+puts dog  
